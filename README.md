@@ -1,4 +1,4 @@
-# webexe
+# webcut
 Kısayoldan kod yaz.
 
 1) code.db' ye kısaltmak istediğin kodları gir.
