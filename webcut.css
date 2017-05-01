@@ -1,0 +1,57 @@
+body{
+margin:0
+}
+@font-face {
+font-family: 'Material Icons';
+font-style: normal;
+font-weight: 400;
+src: url(https://example.com/MaterialIcons-Regular.eot); /* For IE6-8 */
+src: local('Material Icons'),local('MaterialIcons-Regular'),
+url(https://example.com/MaterialIcons-Regular.woff2) format('woff2'),
+url(https://example.com/MaterialIcons-Regular.woff) format('woff'),
+url(https://example.com/MaterialIcons-Regular.ttf) format('truetype');
+}
+.main{
+position:relative;
+margin-top:60px;
+margin-left:auto;
+margin-right:auto;
+width:90%;
+height:800px;
+background:#f5f5f5;
+}
+.menu{
+position:relative;
+top:10px;left:10px;
+background:url();
+}
+.header{
+position:fixed;
+top:0;
+width:100%;
+height:50px;
+background:#000;
+z-index:999;
+}
+.footer{
+position:relative;
+margin-top:20px;
+width:100%;
+height:50px;
+background:lightgray;
+}
+.logo{
+position:relative;
+margin-left:auto;
+margin-right:auto;
+width:200px;
+text-align:center;
+line-height:50px;
+height:50px;
+color:#fff;
+font-family:arial;
+font-size:20px;
+}
+.orange{
+background:orange!important;
+}

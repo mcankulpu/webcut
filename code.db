@@ -1,9 +1,12 @@
-style
-<style>body{margin:0}.header{position:fixed;top:0;width:100%;height:50px;background:#000;}.footer{position:fixed;bottom:0;width:100%;height:50px;background:#000;}.logo{position:relative;margin-left:auto;margin-right:auto;width:200px;text-align:center;line-height:50px;height:50px;color:#fff;font-family:arial;font-size:20px;}.orange{background:orange!important}</style>
+head
+<head><link rel="stylesheet" type="text/css" href="webcut.css"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Cabin|Josefin+Sans|Lobster|Montserrat|Nunito|Open+Sans|Questrial|Quicksand|Roboto|Rubik|Ubuntu|Varela+Round|Work+Sans" rel="stylesheet"></head>
 header
-<div class="header"><div class="logo">Logo</div></div>
+<div class="header"><div class="menu"></div><div class="logo">Logo</div></div>
+main
+<div class="main"></div>
 footer
 <div class="footer"><div class="logo">Logo</div></div>
+
 
 
 
