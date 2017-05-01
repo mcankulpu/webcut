@@ -1,4 +1,9 @@
 style
-<style>body{margin:0}.logo{position:relative;margin-left:auto;margin-right:auto;width:200px;text-align:center;line-height:50px;height:50px;color:#fff;font-family:arial;font-size:20px;}</style>
-hello
-<div style="position:fixed;top:0;width:100%;height:50px;background:#000"><div class="logo">Logo</div></div>
+<style>body{margin:0}.header{position:fixed;top:0;width:100%;height:50px;background:#000;}.footer{position:fixed;bottom:0;width:100%;height:50px;background:#000;}.logo{position:relative;margin-left:auto;margin-right:auto;width:200px;text-align:center;line-height:50px;height:50px;color:#fff;font-family:arial;font-size:20px;}.orange{background:orange!important}</style>
+header
+<div class="header"><div class="logo">Logo</div></div>
+footer
+<div class="footer"><div class="logo">Logo</div></div>
+
+
+
